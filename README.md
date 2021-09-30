@@ -7,16 +7,16 @@ ResNet-32
 ## Dataset:
 CIFAR100
 
-## Master
+## [Master] (https://github.com/MattiaDelleani/incrementalLearning_OpenWorldRecognition/tree/master)
 Implementation of:
 - Fine Tuning
 - Learning without Forgetting
 - iCarL
 
-## Ablation Studies
+## [Ablation Studies] (https://github.com/MattiaDelleani/incrementalLearning_OpenWorldRecognition/tree/ablationStudies)
 This section describes the functioning of the classifiers and losses tested on the iCaRL framework.
 
-## Open World Recognition
+## [Open World Recognition] (https://github.com/MattiaDelleani/incrementalLearning_OpenWorldRecognition/tree/openWorldRecognition)
 In the open world setting the classes are split in two groups
 made by 50 classes each. The first group is the closed world,
 is the only set of classes that the model will use to train
