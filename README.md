@@ -34,7 +34,7 @@ Implementation of:
 - Euclidean Distances
 - FullyConnected + Threshold
 
-**Our modification**
+__Our modification__
 > A sample is rejected if it's distance margin is less than the mean of the distance margins of the training set.
 
 See chapter 9.2 of [Report](Report.pdf)
